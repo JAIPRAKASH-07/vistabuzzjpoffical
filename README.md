@@ -1,99 +1,115 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">Software Developer · Problem Solver · Lifelong Learner</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+```
+██╗   ██╗██╗███████╗████████╗ █████╗ ██████╗ ██╗   ██╗███████╗███████╗
+██║   ██║██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║   ██║╚════██║╚════██║
+██║   ██║██║███████╗   ██║   ███████║██████╔╝██║   ██║    ██╔╝    ██╔╝
+╚██╗ ██╔╝██║╚════██║   ██║   ██╔══██║██╔══██╗██║   ██║   ██╔╝    ██╔╝ 
+ ╚████╔╝ ██║███████║   ██║   ██║  ██║██████╔╝╚██████╔╝   ██║     ██║  
+  ╚═══╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝    ╚═╝     ╚═╝ 
+```
+
+### 🚀 Jaiprakash · Developer · Creator of VistaBuzz Academy
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time.;Creator+%40+VistaBuzz+Academy+%F0%9F%9A%80;CSS+%7C+JavaScript+%7C+HTML+%7C+and+beyond." alt="Typing SVG" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_vistabuzz.co.in-000?style=for-the-badge&logoColor=white)](https://vistabuzz.co.in)
+[![YouTube](https://img.shields.io/badge/@vistabuzzjpacademy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vistabuzzjpacademy)
+[![Twitter](https://img.shields.io/badge/@vistabuzzjp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vistabuzzjp)
+[![Instagram](https://img.shields.io/badge/vistabuzzjp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vistabuzzjp)
+[![Email](https://img.shields.io/badge/sjaiprakash682@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjaiprakash682@gmail.com)
+
+</div>
 
 ---
 
-## 🙋 About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=JAIPRAKASH-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&bg_color=0d1117" />
 
-- 💼 Software Developer with a focus on **[your specialization, e.g. full-stack web / backend systems / mobile]**
-- 🌍 Based in **[Your City, Country]**
-- 🔭 Currently working on **[your current project or role]**
-- 🌱 Learning and deepening expertise in **[technology or concept you're exploring]**
-- 💬 Ask me about **[topics you're happy to discuss — e.g. APIs, system design, React]**
-- ⚡ Fun fact: **[something memorable about you]**
+## 👨‍💻 About Me
+
+```javascript
+const jaiprakash = {
+  name     : "Jaiprakash",
+  alias    : "JAIPRAKASH-07",
+  location : "📍 Bangalore, India",
+  academy  : "🚀 VistaBuzz Academy",
+  mission  : "Teach. Build. Inspire.",
+  focus    : ["Web Dev", "UI/UX", "CSS Magic"],
+  status   : "Always shipping something new ⚡",
+};
+```
+
+- 🎓 **Founder** of [VistaBuzz Academy](https://vistabuzz.co.in) — teaching dev skills online
+- 🎥 Creating content on YouTube **@vistabuzzjpacademy**
+- 🛠️ Building CSS-heavy projects, games & storefronts
+- 🌱 Levelling up in **JavaScript & Full-Stack**
+- 🤝 Open to **collaborations** and **open-source**
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling** | ![Animations](https://img.shields.io/badge/CSS_Animations-FF6B6B?style=flat-square) ![Responsive](https://img.shields.io/badge/Responsive_Design-38BDF8?style=flat-square) ![3D CSS](https://img.shields.io/badge/3D_CSS-A855F7?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Platforms** | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![Web](https://img.shields.io/badge/Web-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-**Frameworks & Libraries**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+---
 
-**Databases & Cloud**
+## 📌 Featured Projects
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
 
-**Tools**
+| 🗂️ Project | 💬 What it is | 🔤 Stack |
+|-----------|--------------|---------|
+| [**Netflix Clone**](https://github.com/JAIPRAKASH-07/Netflix) | Full UI clone of Netflix | CSS |
+| [**3D Model Showcase**](https://github.com/JAIPRAKASH-07/3D-model) | Interactive 3D CSS renders | CSS |
+| [**Car Animated Game**](https://github.com/JAIPRAKASH-07/CarAminatedgame) | Browser-based animated game | CSS |
+| [**HTML CSS Store**](https://github.com/JAIPRAKASH-07/html-css-store) | E-commerce front-end UI | CSS |
+| [**Practise JavaScript**](https://github.com/JAIPRAKASH-07/Practise-JAVASCRIPT) | JS exercises & experiments | HTML |
+| [**VistaBuzz Official**](https://github.com/JAIPRAKASH-07/vistabuzzjpoffical) | Academy's official repo | — |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-> 💡 *Replace or remove any badges above to match your actual stack. Find more badges at [shields.io](https://shields.io).*
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="55%" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIPRAKASH-07&theme=tokyonight&hide_border=true&stroke=00C9FF&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIPRAKASH-07&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" width="40%" />
 
-> 🔧 *Replace `YOUR_USERNAME` with your actual GitHub username in all three stat URLs above.*
+</div>
 
 ---
 
-## 🚀 Current Projects & Goals
+## 🚀 2026 Goals
 
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 1 | [Project Name](https://github.com/yourrepo) | Short description of what it does | 🟢 Active |
-| 2 | [Project Name](https://github.com/yourrepo) | Short description of what it does | 🔨 In Progress |
-| 3 | [Project Name](https://github.com/yourrepo) | Short description of what it does | 💡 Planning |
-
-**2025 Goals**
-- [ ] Contribute to **[open source project]**
-- [ ] Build and ship **[personal project idea]**
-- [ ] Learn **[new technology or certification]**
-- [ ] Write **[blog posts / talks / tutorials]** on [topic]
+- [ ] 🎯 Grow **VistaBuzz Academy** to 10K+ subscribers
+- [ ] 🔨 Ship a **full-stack project** end-to-end
+- [ ] 📚 Master **React & Node.js** deeply
+- [ ] 🌍 Launch a **course or workshop** for beginners
+- [ ] ⭐ Hit **100 stars** across GitHub repos
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Thanks for stopping by — feel free to explore my repos and reach out!</i>
-</p>
+### 💬 Let's build something great together.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=JAIPRAKASH-07&color=00C9FF&style=flat-square&label=Profile+Views)](https://github.com/JAIPRAKASH-07)
+
+*"Code is not just syntax — it's craft."*
+
+</div>
